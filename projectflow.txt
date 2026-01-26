@@ -4,3 +4,7 @@ conda activate myenv
 
 2.pip install -r requirements.txt
 
+3. Create a folder template.py..
+
+
+
