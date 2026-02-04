@@ -24,7 +24,7 @@ git push origin main
 
 # 2- clone the git repository into the local machine:
 ```bash
-git clone https://github.com/adyaan1989/MLOps-Classification-Project.git
+git clone (https://github.com/osamashabih6960/MLOPs-Production-Ready-Machine-Learning-Project-.git)
 ```
 
 # 3- Create the template.py file
